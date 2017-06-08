@@ -1,0 +1,16 @@
+#paginate: 10 # pagination based on number of posts
+#paginate_path: "page:num"
+markdown: kramdown
+title: OrNetRadar
+description: Automatically monitoring the Tor Network for new Groups and Events
+author:
+  name: nusenu
+  email: ornetstats AT riseup
+  github: nusenu
+  twitter: nusenu_
+  #bio: empty
+
+
+BASE_PATH: https://nusenu.github.io/OrNetRadar
+
+theme: jekyll-theme-midnight
