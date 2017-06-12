@@ -12,5 +12,6 @@ author:
 
 
 BASE_PATH: https://nusenu.github.io/OrNetRadar
+baseurl: /OrNetRadar
 
 theme: jekyll-theme-midnight
