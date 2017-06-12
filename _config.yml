@@ -1,5 +1,5 @@
-#paginate: 10 # pagination based on number of posts
-#paginate_path: "page:num"
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
 markdown: kramdown
 title: OrNetRadar
 description: Automatically monitoring the Tor Network for new Groups and Events
