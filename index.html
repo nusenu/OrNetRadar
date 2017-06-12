@@ -14,7 +14,7 @@ title: OrNetRadar
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">Previous</a>
   {% else %}
     <span class="previous">Previous</span>
   {% endif %}
