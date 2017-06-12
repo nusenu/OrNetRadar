@@ -2,7 +2,7 @@ paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 markdown: kramdown
 title: OrNetRadar
-description: Automatically monitoring the Tor Network for new Groups and Events
+description: Monitoring the Tor Network for new Relay Groups and Events
 author:
   name: nusenu
   email: ornetstats AT riseup
