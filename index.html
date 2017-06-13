@@ -7,7 +7,7 @@ title: OrNetRadar
 {% for post in paginator.posts %}
   <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
-    <span class="date">{{ post.date }}</span>
+    <span class="date">{{ post.date | date: "%B" }}</span>
   </p>
 {% endfor %}
 
